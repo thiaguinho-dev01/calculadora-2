@@ -1,3 +1,5 @@
+//Desenvolvido por Thiago Bonfanti Guimarães, 1° DS
+
 #include <assert.h>
 #include <stdio.h>
 #include "function_dividir.c"
