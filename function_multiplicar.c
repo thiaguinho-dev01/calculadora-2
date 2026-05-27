@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Desenvolvido por Thiago Bonfanti Guimarães, 1° DS
 
 int multiplicar(int a, int b) 
 {
