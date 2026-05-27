@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Desenvolvido por Thiago Bonfanti Guimarães, 1° DS
 
 int dividir(int numero1, int numero2)
 {
