@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include "function_multiplicar.c"
 #include "function_dividir.c"
+//Desenvolvido por Thiago Bonfanti Guimarães, 1° DS
 
 int main() 
 {
@@ -9,7 +10,7 @@ int main()
 
     do 
     {
-        printf("\nCALCULADORA - Por: Valentina Andrade\n");
+        printf("\nCALCULADORA\n");
         printf("1. Soma\n");
         printf("2. Subtração\n");
         printf("3. Divisão\n");
